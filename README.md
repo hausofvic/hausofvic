@@ -1,4 +1,4 @@
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hausofvick&show_icons=true&theme=neon)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hausofvick&show_icons=true&theme=buefy)
 
 👋 Olá, eu sou Victória!
 
