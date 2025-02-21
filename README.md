@@ -1,19 +1,17 @@
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hausofvick&show_icons=true&theme=buefy)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hausofvick&show_icons=true&theme=rose)
 
-👋 Olá, eu sou Victória!
+Olá, eu sou a Victória!
 
-🚀 Sobre mim
+Sobre mim:
 
 Aqui você encontrará projetos e estudos relacionados às tecnologias que venho aprendendo e utilizando.
 
-🖥️ Linguagens que aprendi até o momento:
-
+Linguagens que aprendi até o momento:
 🟦 Linguagem C
 🟨 JavaScript
 ☕ Java
 
-🔧 Ferramentas que utilizo:
-
+Ferramentas que utilizo:
 🐘 PostgreSQL
 🐬 MySQL
 🏛️ Oracle
