@@ -4,7 +4,8 @@ Olá, eu sou a Victória!
 
 Sobre mim:
 
-Aqui você encontrará projetos e estudos relacionados às tecnologias que venho aprendendo e utilizando.
+Aqui você encontrará projetos e estudos relacionados às tecnologias que venho aprendendo 
+e utilizando no curso de Análise e Desenvolvimento de Sistemas.
 
 Linguagens que aprendi até o momento:
 🟦 Linguagem C
