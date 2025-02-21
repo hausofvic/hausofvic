@@ -1,16 +1,20 @@
-## Hi there 👋
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=neon)
 
-<!--
-**hausofvick/hausofvick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Olá, eu sou Victória!
 
-Here are some ideas to get you started:
+🚀 Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Aqui você encontrará projetos e estudos relacionados às tecnologias que venho aprendendo e utilizando.
+
+🖥️ Linguagens que aprendi até o momento:
+
+🟦 Linguagem C
+🟨 JavaScript
+☕ Java
+
+🔧 Ferramentas que utilizo:
+
+🐘 PostgreSQL
+🐬 MySQL
+🏛️ Oracle
+🔄 Git
