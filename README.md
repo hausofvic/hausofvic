@@ -1,4 +1,4 @@
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hausofvic&show_icons=true&theme=greatgatsby)
+![hausofvic's Stats](https://github-readme-stats.vercel.app/api?username=hausofvic&theme=great-gatsby&show_icons=true&hide_border=true&count_private=false)
 
 ### 🎧 O que estou ouvindo agora:
 
