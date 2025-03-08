@@ -2,7 +2,10 @@
 
 ### 🎧 O que estou ouvindo agora:
 
-[![Lady Gaga - Mayhem](https://nailcityrecord.com/cdn/shop/files/Lady_Gaga_-_Mayhem_2LPVinyl_UPC_602475451082_1024x1024.png?v=1738182868)](https://open.spotify.com/track/4pNzBbGcqXofx8mLBPTeih)
+<a href="https://open.spotify.com/track/4pNzBbGcqXofx8mLBPTeih" target="_blank">
+    <img src="https://nailcityrecord.com/cdn/shop/files/Lady_Gaga_-_Mayhem_2LPVinyl_UPC_602475451082_1024x1024.png?v=1738182868" alt="Lady Gaga - Mayhem" width="150" style="border-radius: 12px;">
+</a>
+
 
 
 Olá, eu sou a Victória!
