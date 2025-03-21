@@ -17,7 +17,7 @@ Linguagens que aprendi até o momento:
 🟦 Linguagem C
 🟨 JavaScript
 ☕ Java
-<i class="fa-brands fa-php"></i>PHP
+🐘 PHP
 
 Ferramentas que utilizo:
 🐘 PostgreSQL
