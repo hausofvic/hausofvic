@@ -2,11 +2,10 @@
 
 Olá, eu sou a Victória!
 
-Aqui você encontrará projetos e estudos relacionados às tecnologias <br>que venho aprendendo 
-e utilizando no meu dia a dia.
-
 <img src="https://media1.tenor.com/m/y4Ie8h0H-TwAAAAd/cat-typing.gif" width="300"/>
 
+Aqui você encontrará projetos e estudos relacionados às tecnologias <br>que venho aprendendo 
+e utilizando no meu dia a dia.
 
 Linguagens e ferramentas que utilizo atualmente:
 
