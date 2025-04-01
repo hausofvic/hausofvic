@@ -1,4 +1,4 @@
-![hausofvic's Stats](https://github-readme-stats.vercel.app/api?username=hausofvic&theme=great-gatsby&show_icons=true&hide_border=true&count_private=false)
+
 
 Olá, eu sou a Victória!
 
@@ -13,7 +13,7 @@ Linguagens e ferramentas que utilizo atualmente:
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"  width="25" height="25"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="25" height="25" /> 
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="25" height="25" />
 
-
+![hausofvic's Stats](https://github-readme-stats.vercel.app/api?username=hausofvic&theme=great-gatsby&show_icons=true&hide_border=true&count_private=false)
 
 🎧🖤 O que estou ouvindo agora:
 
