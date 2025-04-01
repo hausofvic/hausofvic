@@ -1,4 +1,3 @@
-
 Hello, I'm Victoria!
 
 <img src="https://media1.tenor.com/m/y4Ie8h0H-TwAAAAd/cat-typing.gif" width="300"/>
@@ -14,7 +13,7 @@ Languages and tools I currently use:
 
 **About**
 
-![Victoria's Stats](https://github-readme-stats.vercel.app/api?username=hausofvic&theme=great-gatsby&show_icons=true&hide_border=true&count_private=false)
+![viciftm's GitHub Stats](https://github-readme-stats.vercel.app/api?username=viciftm&theme=transparent&show_icons=true&hide_border=true&count_private=true)
 
 🎧🖤 What I'm listening to now:
 
