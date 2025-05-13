@@ -14,12 +14,12 @@ Languages and tools I currently use:
 **About**
 
 <div align="center">
-  <table style="border: none">
+  <table>
     <tr>
-      <td style="border: none">
+      <td>
         <img src="https://github-readme-stats.vercel.app/api?username=hausofvic&theme=transparent&show_icons=true&hide_border=true&count_private=true" />
       </td>
-      <td style="border: none">
+      <td>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hausofvic&hide_progress=true" width="300"/>
       </td>
     </tr>
