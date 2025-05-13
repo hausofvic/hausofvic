@@ -13,11 +13,16 @@ Languages and tools I currently use:
 
 **About**
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hausofvic&hide_progress=true" height="200"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=hausofvic&theme=transparent&show_icons=true&hide_border=true&count_private=true" height="200"/>
-</p>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=hausofvic&theme=transparent&show_icons=true&hide_border=true&count_private=true" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hausofvic&hide_progress=true" width="300"/>
+    </td>
+  </tr>
+</table>
 
 🎧🖤 What I'm listening to now:
 
