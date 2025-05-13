@@ -13,7 +13,7 @@ Languages and tools I currently use:
 
 **About**
 
-<div align="right">
+<div align="left">
   <table>
     <tr>
       <td>
